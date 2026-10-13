@@ -1,6 +1,6 @@
 # Malaysia Haze Monitor
 
-A Power BI dashboard tracking haze across Malaysia: air quality (API), regional fire hotspots, wind and rain, and an experimental 5-day forecast.
+A Power BI dashboard tracking haze across Malaysia: air quality (API), regional fire hotspots, wind and rain and forecast.
 
 **Live dashboard:** [PASTE PUBLISH-TO-WEB LINK]
 
@@ -20,9 +20,6 @@ A Power BI dashboard tracking haze across Malaysia: air quality (API), regional 
 - Power BI reads the CSVs from this repo and refreshes on a schedule.
 - Wind, rain and modelled PM2.5 come directly from Open-Meteo.
 
-## Forecast caveat
-The forecast is **experimental**. It is trained on only a short DOE history and is not an official forecast. For health advice, use the DOE and Malaysian Meteorological Department.
-
 ## Data sources
 - Department of Environment Malaysia (DOE), MyEQMS: air pollutant index
 - NASA FIRMS: VIIRS active fire data
@@ -34,6 +31,6 @@ The forecast is **experimental**. It is trained on only a short DOE history and 
 3. Enable GitHub Actions and run **collect-doe-api** once.
 
 ## Disclaimer
-Independent student project. Not affiliated with DOE, NASA or Open-Meteo.
+Independent independent project. Not affiliated with DOE, NASA or Open-Meteo.
 
-Built by Hollis Francis (UTM).
+Built by Hollis Francis.
