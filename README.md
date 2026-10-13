@@ -2,7 +2,7 @@
 
 A Power BI dashboard tracking haze across Malaysia: air quality (API), regional fire hotspots, wind and rain and forecast.
 
-**Live dashboard:** [PASTE PUBLISH-TO-WEB LINK]
+**Live dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMWJlNGM2NmEtNTc3YS00NzM1LWFmNzktOWM4YzFlZWZmNTljIiwidCI6IjBlMGRiMmFkLWM0MTYtNDdjNy04OGVjLWNlYWM0ZWU3Njc2NyIsImMiOjEwfQ%3D%3D
 
 ![Dashboard screenshot](Dashboard.png)
 
