@@ -4,7 +4,7 @@ A Power BI dashboard tracking haze across Malaysia: air quality (API), regional 
 
 **Live dashboard:** [PASTE PUBLISH-TO-WEB LINK]
 
-![Dashboard screenshot](screenshot.png)
+![Dashboard screenshot](Malaysia Haze Monitor.png)
 
 ## What it shows
 - **Overview:** national and state API, worst state, days above 100, hotspots in Malaysia
