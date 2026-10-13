@@ -25,11 +25,6 @@ A Power BI dashboard tracking haze across Malaysia: air quality (API), regional 
 - NASA FIRMS: VIIRS active fire data
 - Open-Meteo: weather and CAMS air-quality model data
 
-## Run it yourself
-1. Fork the repo.
-2. Add a repository secret `FIRMS_KEY` (free key from NASA FIRMS).
-3. Enable GitHub Actions and run **collect-doe-api** once.
-
 ## Disclaimer
 Independent independent project. Not affiliated with DOE, NASA or Open-Meteo.
 
